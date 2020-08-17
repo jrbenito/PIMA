@@ -2,7 +2,7 @@
 
 A library to read data from energy meters compliant with Brazilian standards.
 
-_THIS PROJECT IS ABANDONED_. I have another [repository](https://github.com/jrbenito/PIMA-node) with a proof of concept that would make this library possible. However, life got in the way, I sold the meter and no longer have means to test it.
+__THIS PROJECT IS ABANDONED__. I have another [repository](https://github.com/jrbenito/PIMA-node) with a proof of concept that would make this library possible. However, life got in the way, I sold the meter and no longer have means to test it.
 
 ## Intruction
 
